@@ -5,7 +5,7 @@
 ## 🎨 Desarrollador Web
 ### - ¿Querés un frontend/backend copado? Soy tu mejor opción papurri 😋
 <p/>
-<img src="https://media.tenor.com/otkJ5i7S_agAAAAM/dog-smile.gif"/>
+<img src="[https://media.tenor.com/otkJ5i7S_agAAAAM/dog-smile.gif](https://tenor.com/es-AR/view/goofy-gawrsh-a-goofy-movie-disney-cartoon-gif-26563660)"/>
 
 ## 😎 Actualmente juno una banda de : 
 
