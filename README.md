@@ -7,7 +7,7 @@
 
 ## Bienvenido a mi GitHub
 
-Soy un desarrollador web argentino apasionado por aprender nuevas tecnologías y aplicarlas en mi día a día para crear productos de software innovadores, robustos y realmente útiles. Me desempeño tanto en el frontend como en el backend, lo que me permite comprender la ingeniería web de forma integral: desde experiencias de usuario intuitivas hasta arquitecturas y lógica de servidor escalables. Actualmente me encuentro en constante evolución, colaborando y creciendo junto a [Nexus Studio](https://www.instagram.com/nexus.studio.dev/).
+Soy un desarrollador web argentino apasionado por aprender nuevas tecnologías y aplicarlas en mi día a día para crear productos de software innovadores, robustos y realmente útiles. Me desempeño tanto en el frontend como en el backend, lo que me permite comprender la ingeniería web de forma integral: desde experiencias de usuario intuitivas hasta arquitecturas y lógica de servidor escalables. Actualmente me encuentro en constante evolución y creciendo junto a [Nexus Studio](https://www.instagram.com/nexus.studio.dev/).
 
 Disfruto trabajar con tecnologías modernas, optimizar flujos y diseñar sistemas eficientes. Cuento con un gran interés y enfoque activo en el desarrollo de agentes de IA, así como en la Inteligencia Artificial en general y el Machine Learning, investigando e implementando cómo estas herramientas inteligentes y autónomas pueden transformar aplicaciones, resolver problemas complejos y automatizar procesos clave.
 
