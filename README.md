@@ -4,7 +4,6 @@
 
 # 😁 ¡Hola! Soy Nahuel
 
-<img src="https://media.tenor.com/CIZMra3Hr74AAAAM/qweated00.gif"/>
 
 ## Bienvenido a mi GitHub
 
