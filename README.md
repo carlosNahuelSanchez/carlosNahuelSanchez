@@ -13,7 +13,7 @@ Disfruto trabajar con tecnologías modernas, optimizar flujos y diseñar sistema
 
 Asimismo, integro buenas prácticas de desarrollo y conceptos esenciales de ciberseguridad para construir plataformas seguras, resilientes y confiables, siempre motivado por enfrentar nuevos desafíos técnicos y llevar cada proyecto al siguiente nivel.
 
-> **En constante evolución y creciendo con [Nexus Studio]([nexus-studio-dev.netlify.app](https://nexus-studio-dev.netlify.app/))**
+> **En constante evolución y creciendo con [Nexus Studio](https://nexus-studio-dev.netlify.app/)**
 
 ## 🎨 Tecnologías que domino
 
